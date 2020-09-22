@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third_practic", "Third_practic.csproj", "{491C84B8-288C-4C66-9759-3E83870F8D7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Found-of-phone-nomber", "Found-of-phone-nomber.csproj", "{491C84B8-288C-4C66-9759-3E83870F8D7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
